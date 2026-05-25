@@ -9,7 +9,7 @@
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-Compliant-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-ISC-blue?style=for-the-badge)
 
-**Author:** Huzaifa Ahmed &nbsp;|&nbsp; **DHC ID:** 154 &nbsp;|&nbsp; **Organization:** DHC &nbsp;|&nbsp; **Completed:** 27th March, 2026
+**Author:** Huzaifa Ahmed &nbsp;|&nbsp; **DHC ID:** 154 &nbsp;|&nbsp; **Organization:** DHC &nbsp;|&nbsp; **Completed:** 24th May, 2026
 
 </div>
 
@@ -169,8 +169,8 @@ const csrfProtection = csurf({
 
 ```bash
 # Clone the repository
-git clone https://github.com/JuttSahib1999/DHC_cyber-security-internship-week4-6.git
-cd DHC_cyber-security-internship-week4-6
+git clone (https://github.com/Huzaif251/DHC-Cyber-Security-Internship-Week4-6.git)
+cd DHC-Cyber-Security-Internship-Week4-6
 
 # Install dependencies
 npm install
